@@ -1,0 +1,43 @@
+---
+title: "Data Engineering Tools Review"
+author: "Your Name"
+date: "February 4, 2025"
+format: html
+---
+
+# **Data Engineering Tools Review**
+
+## **1. Overview**
+In Lecture 1, we explored the **Open Source Data Engineering Landscape 2024**, categorizing tools into broader and specific groups. This report will summarize key categories and highlight three areas of interest.
+
+## **2. Large Categories Overview**
+1. **Storage Systems** - Manages structured and unstructured data.
+2. **Data Lake Platforms** - Central repositories for storing large amounts of raw data.
+3. **Data Integration** - Tools for ETL (Extract, Transform, Load).
+4. **Data Orchestration** - Automates data pipeline workflows.
+5. **Metadata Management** - Organizes metadata for easy access.
+6. **Data Processing** - Frameworks like Spark for data computation.
+7. **Data Governance** - Security, compliance, and monitoring.
+8. **Data Observability** - Tracks pipeline performance and failures.
+9. **Data Visualization** - BI tools for insights and reporting.
+
+## **3. Three Small Categories of Interest**
+### **🔹 1. Distributed SQL Databases**
+- Enables horizontal scaling of relational databases.
+- Useful for cloud-native applications.
+- Example tools: **Google Spanner, CockroachDB**.
+
+### **🔹 2. Data Streaming Frameworks**
+- Processes real-time data events.
+- Used in analytics and real-time monitoring.
+- Example tools: **Apache Kafka, Apache Flink**.
+
+### **🔹 3. Data Orchestration Tools**
+- Manages data pipelines and workflows.
+- Automates ETL jobs.
+- Example tools: **Apache Airflow, Dagster**.
+
+## **4. Reflection**
+### **What I Liked**
+- Learning about various open-source tools.
+- Understanding th
